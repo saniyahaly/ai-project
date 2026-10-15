@@ -14,7 +14,7 @@ return(
         Saniyah Ali
       </div>
       <div className="text-slate-700 dark:text-slate-500">
-        Staff Engineer, Algolia
+        Digital Marketing
       </div>
     </figcaption>
   </div>
